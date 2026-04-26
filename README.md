@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/polardredd">
-    <img src="https://img.shields.io/github/followers/polardredd?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Josepolar?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 - 🔭 I'm a full-stack developer passionate about building clean, scalable web applications.
 - 🤖 Currently exploring the world of **AI/ML** and **Large Language Models (LLMs)**.
 - 🚀 I love turning ideas into real products — from frontend pixels to backend logic.
-- 📫 Reach me on [GitHub](https://github.com/polardredd)
+- 📫 Reach me on [GitHub](https://github.com/Josepolar)
 
 ---
 
@@ -62,9 +62,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polardredd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josepolar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polardredd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josepolar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
